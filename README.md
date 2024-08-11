@@ -1,6 +1,8 @@
 # Abstract_Decoder
 Text Classification Model for Medical Abstracts
-It looks like you’re working on an NLP model to improve the readability of medical abstracts, and you’ve set up a thorough pipeline for data processing and model experimentation. Here’s a quick overview and some tips for each step in your workflow:
+Built and deployed a CNN model to classify sentences in medical abstracts with 83.5% accuracy  in distinguishing between different sections of abstracts (e.g., Background, Methods, Results) using TensorFlow.
+Developed preprocessing pipelines for text vectorization and embedding, enhancing model performance on large-scale medical datasets.
+Utilized pretrained embeddings (e.g., Universal Sentence Encoder) to improve feature extraction and classification accuracy.
 
 ### 1. **Environment Setup and Data Loading**
 
