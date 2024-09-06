@@ -5,6 +5,8 @@ Built and deployed a CNN model to classify sentences in medical abstracts with 8
 Developed preprocessing pipelines for text vectorization and embedding, enhancing model performance on large-scale medical datasets.
 Utilized pretrained embeddings (e.g., Universal Sentence Encoder) to improve feature extraction and classification accuracy.
 
+![WhatsApp Image 2024-09-06 at 9 31 18 PM](https://github.com/user-attachments/assets/5ebd7a4c-61fe-4421-8be8-4dba45a26b02)
+
 ### 1. **Environment Setup and Data Loading**
 
 - **GPU Check:** Confirm you have access to GPU with `!nvidia-smi -L`.
